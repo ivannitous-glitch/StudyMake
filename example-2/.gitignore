@@ -1,2 +1,6 @@
 hello
-hello-dbg
+
+*.o
+
+*.tmp
+*.swp
