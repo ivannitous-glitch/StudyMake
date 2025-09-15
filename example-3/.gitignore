@@ -1,2 +1,5 @@
-!Kazino-Royal.cpp
-Kazino-Royal*
+program
+program-dbg
+*.o
+*.tmp
+*.swp
